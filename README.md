@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an independent **Apple Developer** with a focus on **iOS** platform. 
-A neat interface gives expression to my thoughts and keeps me going!
+I am an independent **Apple Developer** with a focus on **iOS** platform. <br/> A neat interface gives expression to my thoughts and keeps me going!
 
 - 🖥 I'm currently working on a productivity shopping app called [KartStopper](https://github.com/ashish-brahma/KartStopper).
 - 🎓 Learning all things 'Swift'ly drives me these days.
