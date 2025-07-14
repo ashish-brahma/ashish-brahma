@@ -1,4 +1,4 @@
-## Welcome to my page! 👋
+## Welcome To My Page! 👋
 
 <!--
 **ashish-brahma/ashish-brahma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About Me
+
 I am an independent **Apple Developer** with a focus on **iOS** platform.
 
 A neat interface gives expression to my thoughts and keeps me going!
@@ -26,8 +28,9 @@ A neat interface gives expression to my thoughts and keeps me going!
 - ❌ Say no to Liquid Glass UI.
 
 ### Let's connect.
+
 - 📎 Check out my [portfolio website](https://ashish-brahma.github.io/portfolio/)
-- 📮 Drop an email at [ashish.brahma@outlook.com](mailto:ashish.brahma@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/brahma-ashish/). <br/>
+- 📮 Drop an email at [ashish.brahma@outlook.com](mailto:ashish.brahma@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/brahma-ashish/).
 
 
 *Bon Voyage...*
