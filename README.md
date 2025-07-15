@@ -39,7 +39,7 @@ to my thoughts and keeps me going!
 ### Let's connect
 - 📎 Check out my [portfolio website](https://ashish-brahma.github.io/portfolio/)
 - 📮 Send me an email or DM to get in touch with me. <br/><br/>
-   [![Static Badge](https://img.shields.io/badge/Email-ashish.brahma%40outlook.com-skyblue?style=flat-square&labelColor=black)](mailto:ashish.brahma@outlook.com)
-   [![Static Badge](https://img.shields.io/badge/LinkedIn-brahma--ashish-blue?style=flat-square)](https://www.linkedin.com/in/brahma-ashish/)<br/>
+   [![Static Badge](https://img.shields.io/badge/Email-ashish.brahma%40outlook.com-skyblue?style=plastic&labelColor=black)](mailto:ashish.brahma@outlook.com)
+   [![Static Badge](https://img.shields.io/badge/LinkedIn-brahma--ashish-blue?style=plastic)](https://www.linkedin.com/in/brahma-ashish/)<br/>
 
   *Nice to meet you!*
