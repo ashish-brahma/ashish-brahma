@@ -1,5 +1,5 @@
 ## Welcome To My Profile! 👋
-
+<br/>
 <!--
 **ashish-brahma/ashish-brahma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I am an independent Apple Developer with a focus on iOS platform. A neat interface gives expression to my thoughts... <br/><br/> ...and *keeps me going!*
+I am an independent **Apple Developer** with a focus on **iOS** platform. A neat interface gives expression to my thoughts... <br/><br/> ...and *keeps me going!*
 
 - 🖥 I'm currently working on a productivity shopping app called [KartStopper](https://github.com/ashish-brahma/KartStopper).
 - 📚 Learning all things 'Swift'ly drives me these days.
