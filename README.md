@@ -30,16 +30,16 @@ to my thoughts and keeps me going!
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br/>
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br/><br/>
 - 🔨 My everyday tools are <br/> <br/>
    ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br/>
+   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br/><br/>
 - ❌ Disapprove Liquid Glass UI.
 
 ### Let's connect
 - 📎 Check out my [portfolio website](https://ashish-brahma.github.io/portfolio/).
 - 📮 Send me an email or DM to get in touch with me. <br/><br/>
-   [![Static Badge](https://img.shields.io/badge/Email-ashish.brahma%40outlook.com-skyblue?style=flat&labelColor=black)](mailto:ashish.brahma@outlook.com)
-   [![Static Badge](https://img.shields.io/badge/LinkedIn-ashish--brahma-blue?style=flat&labelColor=black)](https://www.linkedin.com/in/brahma-ashish/)<br/>
+   [![Static Badge](https://img.shields.io/badge/Email-ashish.brahma%40outlook.com-white?style=flat&labelColor=blue)](mailto:ashish.brahma@outlook.com)
+   [![Static Badge](https://img.shields.io/badge/LinkedIn-ashish--brahma-blue?style=flat&labelColor=black)](https://www.linkedin.com/in/brahma-ashish/)<br/><br/>
 
-  *Nice to meet you!*
+*Nice to meet you!*
