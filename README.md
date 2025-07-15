@@ -23,8 +23,8 @@ A neat interface gives expression to my thoughts and keeps me going!
 
 - 🖥 I'm currently working on a productivity shopping app called [KartStopper](https://github.com/ashish-brahma/KartStopper).
 - 🎓 Learning all things 'Swift'ly drives me these days.
-- 🧰 My tech stack includes `Swift`, `MongoDB-Atlas`, `Google Firebase`, `Python`, `MySQL`, `HTML`, `CSS`, `Javascript`.
-- 🔨 I use `XCode` and `Figma` in my everyday work.
+- 🧰 My tech stack includes Swift, MongoDB-Atlas, Google Firebase, Python, MySQL, HTML, CSS, Javascript.
+- 🔨 I use **XCode** and **Figma** in my everyday work.
 - ❌ Say no to Liquid Glass UI.
 
 ### Let's connect.
