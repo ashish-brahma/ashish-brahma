@@ -40,6 +40,6 @@ I am an independent **Apple Developer** with a focus on **iOS** platform. A neat
 - 📎 Check out my [portfolio website](https://ashish-brahma.github.io/portfolio/).
 - 📮 Send me an email or DM to get in touch with me- <br/><br/>
    [![Static Badge](https://img.shields.io/badge/Email-ashish.brahma%40outlook.com-white?style=flat&labelColor=rgb(0%2C%20120%2C%20212))](mailto:ashish.brahma@outlook.com)
-   [![Static Badge](https://img.shields.io/badge/LinkedIn-brahma--ashish-white?style=flat&labelColor=rgb(0%2C%20119%2C%20181))](https://www.linkedin.com/in/brahma-ashish/)<br/><br/>
+   [![Static Badge](https://img.shields.io/badge/LinkedIn-brahma--ashish-white?style=flat&labelColor=rgb(0%2C%20119%2C%20181))](https://www.linkedin.com/in/brahma-ashish/){:target="_blank" rel="noopener"} <br/><br/>
 
 *Nice to meet you!*
