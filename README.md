@@ -1,5 +1,4 @@
 ## Welcome To My Profile! 👋
-<br/>
 
 <!--
 **ashish-brahma/ashish-brahma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +33,7 @@ I am an independent Apple Developer with a focus on iOS platform. A neat interfa
 - 🔨 My everyday tools- <br/> <br/>
    ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br/><br/>
-- ❌ Disapprove Liquid Glass UI.<br/>
+- ❌ Disapprove Liquid Glass UI.<br/><br/>
 
 ### Let's connect
 - 📎 Check out my [portfolio website](https://ashish-brahma.github.io/portfolio/).
