@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am an independent **Apple Developer** with a focus on **iOS** platform. A neat interface gives expression to my thoughts... <br/><br/> ...and *keeps me going!*
 
-- 🖥 I'm currently working on a productivity shopping app called [KartStopper](https://github.com/ashish-brahma/KartStopper).
+- 🖥 I'm currently working on a productivity shopping app called [KartStopper](https://github.com/ashish-brahma/KartStopper){:target="_blank" rel="noopener"}.
 - 📚 Learning all things 'Swift'ly drives me these days.
 - 🧰 My tech stack- <br/> <br/>
    ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -40,7 +40,6 @@ I am an independent **Apple Developer** with a focus on **iOS** platform. A neat
 - 📎 Check out my [portfolio website](https://ashish-brahma.github.io/portfolio/).
 - 📮 Send me an email or DM to get in touch with me- <br/><br/>
    [![Static Badge](https://img.shields.io/badge/Email-ashish.brahma%40outlook.com-white?style=flat&labelColor=rgb(0%2C%20120%2C%20212))](mailto:ashish.brahma@outlook.com)
-   [![Static Badge](https://img.shields.io/badge/LinkedIn-brahma--ashish-white?style=flat&labelColor=rgb(0%2C%20119%2C%20181))](https://www.linkedin.com/in/brahma-ashish/){:target="_blank" rel="noopener"}
+   [![Static Badge](https://img.shields.io/badge/LinkedIn-brahma--ashish-white?style=flat&labelColor=rgb(0%2C%20119%2C%20181))](https://www.linkedin.com/in/brahma-ashish/) <br/><br/>
 
-  <br/><br/>
 *Nice to meet you!*
