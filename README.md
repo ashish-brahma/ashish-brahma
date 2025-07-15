@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>
+
 ### About Me
 
 I am an independent **Apple Developer** with a focus on **iOS** platform. A neat interface gives expression to my thoughts... <br/><br/> ...and *keeps me going!*
